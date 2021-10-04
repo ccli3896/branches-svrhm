@@ -19,8 +19,8 @@ from torch.utils.data import Dataset,DataLoader
 import numpy as np
 import sys 
 
-import DataLoaders as dl
-import BranchArchs as ba
+import dataloaders as dl
+import branch_archs as ba
 
 def lesion_score(net, testloader, lesions=None):
   # Takes a trained net with a lesion option in the forward() method.

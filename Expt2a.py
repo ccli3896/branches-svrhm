@@ -15,8 +15,8 @@ import numpy as np
 import sys 
 import pathlib
 
-import DataLoaders as dl
-import BranchArchs as ba
+import dataloaders as dl
+import branch_archs as ba
 
 PATH = './data/Figure 3/Models/'
 SEEDS = 10

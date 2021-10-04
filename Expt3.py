@@ -18,8 +18,8 @@ from torch.utils.data import Dataset,DataLoader
 import numpy as np
 import sys 
 
-import DataLoaders as dl
-import BranchArchs as ba
+import dataloaders as dl
+import branch_archs as ba
 from utils import *
 
 

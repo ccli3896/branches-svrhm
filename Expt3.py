@@ -53,6 +53,7 @@ if __name__=='__main__':
   if alpha == 0: imp_factor = 1
   else: imp_factor = i_factor
 
+  # imp_factor = 1 if alpha == 0 else i_factor 
 
   criterion = mse_loss
 

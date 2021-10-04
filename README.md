@@ -1,4 +1,4 @@
-# branches-svrhm
+# Predicting task allocation in branched architectures
 Code for SVRHM 2021 submission
 
 The Plots notebook makes figures out of the uploaded data.
